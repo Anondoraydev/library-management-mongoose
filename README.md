@@ -99,7 +99,7 @@ POST /api/borrow
 {
   "success": true,
   "data": {
-    "_id": "64bc4a0f9e1c2d3f4b5a6789",
+    "_id": "68579df93227a7a9cec640e9",
     "book": "64ab3f9e2a4b5c6d7e8f9012",
     "quantity": 1,
     "dueDate": "2025-07-18T00:00:00.000Z"
